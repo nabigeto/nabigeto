@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Nabigeto Nabi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="error_login">Error on login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome_message">Hi and welcome </string>
+    <string name="search_message">Make my day - what would you like</string>
+    <string name="search_holder_test">.....</string>
+    <string name="search_button">Press Me</string>
+    <string name="logout_item">Logout</string>
+    <string name="new_reminder">New Reminder</string>
+    <string name="reminder_menu">Reminder Menu</string>
+
+    <string name="reminder_save">Save</string>
+    <string name="toggle_live">Toggle Live</string>
+    <string name="toggle_time">Toggle Time</string>
+    <string name="toggle_date">Toggle Date</string>
+    <string name="toggle_hourly">Toggle Hourly</string>
+    <string name="toggle_daily">Toggle Daily</string>
+    <string name="toggle_weekly">Toggle Weekly</string>
+    <string name="toggle_monthly">Toggle Monthly</string>
+    <string name="toggle_yearly">Toggle Yearly</string>
+    <string name="toggle_place">Toggle Place</string>
+    <string name="reminder_comment_field">Reminder Comment</string>
+    <string name="addcontacts">Add Contacts</string>
+    <string name="add_contact_title">Contacts</string>
+    <string name="add_contact_name">Name</string>
+    <string name="add_contact_email">Email</string>
+    <string name="add_contact_submit_button">Submit</string>
+    <string name="contactslist">Contacts List</string>
+    <string name="dialog_title">Delete Contact</string>
+    <string name="dialog_message">Would you like to delete this contact</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="shared_prefs">shared_prefs</string>
+
+    <string name="description">Nabigeto_notification_launcher</string>
+    <string name="nabigeto_nabi">Nabigeto_Nabi</string>
+    <string name="Channel1">channel_id</string>
+
+
+</resources>
