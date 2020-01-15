@@ -150,7 +150,9 @@ public class AppWelcome_Fragment extends Fragment implements TextToSpeech.OnInit
         Log.v("Gavin", "Loading welcome screen loader 1");
         viewname.setText(name);
         viewuseremail.setText(email);
-        Picasso.with(getContext()).load(photoUrl).into(viewphotourl);
+        Picasso.get().load(photoUrl).into(viewphotourl);
+ /**    Picasso.with(getContext()).load(photoUrl).into(viewphotourl);
+     **/
         Log.v("Gavin", "Loading welcome screen loader 2");
     }
 

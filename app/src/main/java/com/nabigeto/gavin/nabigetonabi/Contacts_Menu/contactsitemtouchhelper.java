@@ -1,12 +1,17 @@
 package com.nabigeto.gavin.nabigetonabi.Contacts_Menu;
 
 import android.graphics.Canvas;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.helper.ItemTouchHelper;
+
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.ItemTouchHelper;
+
 import android.view.View;
 
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
+/**
 import com.google.firebase.internal.FirebaseAppHelper;
+**/
 
 public class contactsitemtouchhelper extends ItemTouchHelper.SimpleCallback {
 

@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "62929825953-nicq9bms9hns3ec9dgc7he72vgmu33bp.apps.googleusercontent.com",
+          "client_id": "62929825953-717leaf8djirfftm11uno7lpmf9vsbjh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.nabigeto.gavin.nabigetonabi",
-            "certificate_hash": "266d1aea1912d7f935ce0a88c5e587317f697651"
+            "certificate_hash": "6770e01dbcfc17ba9b98881f834c7f8ccf4cb1db"
           }
         },
         {
@@ -33,20 +33,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "62929825953-oo09a34e31dsogv35n17scqhadhohva2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

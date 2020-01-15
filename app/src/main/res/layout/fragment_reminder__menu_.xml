@@ -5,7 +5,7 @@
     xmlns:andriod="http://schemas.android.com/apk/res-auto"
     tools:context="com.nabigeto.gavin.nabigetonabi.Reminder_Menu.Reminder_Menu_Fragment">
 
-   <android.support.v7.widget.RecyclerView
+   <androidx.recyclerview.widget.RecyclerView
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:id="@+id/mrecyclerview"

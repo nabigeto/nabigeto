@@ -1,6 +1,7 @@
 package com.nabigeto.gavin.nabigetonabi.Contacts_Menu;
 
-import android.arch.lifecycle.ViewModelProviders;
+import androidx.lifecycle.ViewModelProvider;
+import androidx.lifecycle.ViewModel;
 import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -36,7 +37,9 @@ public class contacts_menu_fragment extends Fragment implements contactsitemtouc
 
     public String position_key_ref;
 
+  /**  con
     contacts_viewmodel mViewModel;
+**/
 
     ArrayList<String> arrayList = new ArrayList<String>();
 
